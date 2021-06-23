@@ -42,8 +42,8 @@ Enter the full names of the authors within the research group, separated by a co
 
 *Quintile* - Multiply the number of topics by the number of citations per article on a quintile scale. <br> <br>
 
-#@markdown ## **Graph options** 
-#@markdown ###### **Amount of topics plot 1** - Parameter for the amount of options of the upper plot on the “Topic evolution graphs” tab. <br> <br>
+### **Graph options** 
+###### **Amount of topics plot 1** - Parameter for the amount of options of the upper plot on the “Topic evolution graphs” tab. <br> <br>
 
 ###### **Amount of topics plot 2** - Parameter for the amount of options of the lower plot on the “Topic evolution graphs” tab. <br> <br>
 
